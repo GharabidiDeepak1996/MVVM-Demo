@@ -2,7 +2,8 @@
 MVVM stands for Model, View, ViewModel.
 
 Model:
-Same as in MVC/MVP pattern.
+
+1.Same as in MVC/MVP pattern.
 
 View:
 1. Same as in MVC/MVP pattern.
